@@ -3,7 +3,7 @@
 <p align="center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
 <br/>
-<a href="https://dsc.gg/britakeestudio" rel="nofollow"><img src="https://img.shields.io/discord/1272931953821352047?style=for-the-badge&logo=discord&logoColor=fff&label=Britakee Studio&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-sky" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/992987?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
+<a href="https://dsc.gg/britakeestudio" rel="nofollow"><img src="https://img.shields.io/discord/1272931953821352047?style=for-the-badge&logo=discord&logoColor=fff&label=Britakee Studio&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth-2-skyblock" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/992987?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
 <br/>
 
 #
